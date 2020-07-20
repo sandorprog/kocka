@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&family=Rowdies:wght@300&display=swap');
+
 body{
   background-color: lightgray;
 }
@@ -5,6 +7,14 @@ body{
 h1{
   text-align: center;
   margin: 30px, 0;
+  font-family: 'Rowdies', cursive;
+}
+
+p{
+  text-align: center;
+  margin-bottom: 25px;
+  font-family: 'Roboto', sans-serif;
+
 }
 #canvas {
   width: 400px;
