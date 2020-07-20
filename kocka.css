@@ -14,7 +14,15 @@ p{
   text-align: center;
   margin-bottom: 25px;
   font-family: 'Roboto', sans-serif;
+}
 
+a{
+  text-decoration: none;
+  font-size: 25px;
+}
+.link-text{
+  text-align: center;
+  margin-top: 40px;
 }
 #canvas {
   width: 400px;
@@ -108,7 +116,13 @@ p{
   background-color: blue;
 }
 
-.red{background-color: red;}
-.right{float: right;}
-.black{background-color: black;}
+.red{
+  background-color: red;
+}
+.right{
+  float: right;
+}
+.black{
+  background-color: black;
+}
 
